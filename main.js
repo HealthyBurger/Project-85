@@ -8,7 +8,7 @@ background_image = "parkingLot.jpg";
 greencar_image = "car2.png";
 
 //Set initial position for a car image.
-greecar_x = 5
+greencar_x = 5
 greencar_y = 225
 function add() {
 	background_imageTag = new Image();
